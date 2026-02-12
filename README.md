@@ -1,4 +1,13 @@
-# my-terminal
+# My Terminal configuration
+
+## Installation
+```
+git clone https://github.com/kamoloff/my-terminal.git
+cd my-terminal
+chmod +x install.sh
+./install.sh
+```
+
 
 
 Result:
